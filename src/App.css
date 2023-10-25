@@ -26,6 +26,5 @@ li {
 }
 .buttonsContainer{
   display: flex;
-  justify-content: sp;
-
+  justify-content: space-around;
 }
